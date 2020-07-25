@@ -48,7 +48,6 @@
     "users": {
       "collection": "user",
       "dominant": true,
-      "via": "notifications",
       "plugin": "users-permissions"
     },
     "data": {
